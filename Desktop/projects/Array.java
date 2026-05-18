@@ -27,5 +27,6 @@ class array {
         int answer = reverse(number); // call method
 
         System.out.println("Reversed number is: " + answer);
+        System.out.println("Reversed number is: " + answer);
     }
 }
